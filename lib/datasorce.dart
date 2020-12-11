@@ -29,28 +29,28 @@ class DataSource {
     },
     {
       "question":
-          "COVID-19'a neden olan virüs hava yoluyla bulaşabilir mi?",
+          "COVID-19'a neden olan virüs hava yoluyla bulasabilir mi?",
       "answer":
           "Bugüne kadar yapılan araştırmalar, COVID-19'a neden olan virüsün esas olarak hava yoluyla değil, solunum damlacıklarıyla temas yoluyla bulaştığını göstermektedir."
     },
     {
-      "question": "CoVID-19 semptomu olmayan bir kişiden yakalanabilir mi?",
+      "question": "CoVID-19 semptomu olmayan bir kisiden yakalanabilir mi?",
       "answer":
           "Hastalığın yayılmasının ana yolu, öksüren biri tarafından dışarı atılan solunum damlacıklarıdır. Hiç semptomu olmayan birinden COVID-19 kapma riski çok düşüktür. Bununla birlikte, COVID-19'lu birçok kişi yalnızca hafif semptomlar yaşar. Bu, özellikle hastalığın erken aşamalarında geçerlidir. Bu nedenle, örneğin hafif bir öksürüğü olan ve kendini hasta hissetmeyen birinden COVID-19 kapmak mümkündür. DSÖ, COVID-19'un bulaşma dönemiyle ilgili devam eden araştırmaları değerlendiriyor ve güncellenmiş bulguları paylaşmaya devam edecek."
     },
     {
       "question":
-          "COVID-19'u hastalığı olan birinin dışkısından yakalayabilir miyim?",
+          "COVID-19'u hastalıgı olan birinin dıskısından yakalayabilir miyim?",
       "answer":
           "Enfekte bir kişinin dışkısından COVID-19 kapma riski düşük görünmektedir. İlk araştırmalar virüsün bazı durumlarda dışkıda bulunabileceğini öne sürse de, bu yolla yayılma salgının ana özelliği değildir. DSÖ, COVID-19'un yayılma yolları konusunda devam eden araştırmaları değerlendiriyor ve yeni bulguları paylaşmaya devam edecek. Ancak bu bir risk olduğu için, banyoyu kullandıktan sonra ve yemekten önce düzenli olarak ellerin temizlenmesinin başka bir nedenidir."
     },
     {
-      "question": "COVID-19'u yakalama olasılığım nedir?",
+      "question": "COVID-19'u yakalama olasılıgım nedir?",
       "answer":
           "Risk, nerede olduğunuza ve daha spesifik olarak, orada bir COVID-19 salgını olup olmadığına bağlıdır. \nÇoğu yerde çoğu insan için COVID-19'u yakalama riski hala düşüktür. Bununla birlikte, artık dünyanın dört bir yanında (şehirler veya bölgeler) hastalığın yayıldığı yerler var. Bu bölgelerde yaşayan veya ziyaret eden insanlar için COVID-19'a yakalanma riski daha yüksektir. Hükümetler ve sağlık yetkilileri, yeni bir COVID-19 vakası tespit edildiğinde her seferinde güçlü adımlar atıyor. Seyahat, hareket veya büyük toplantılarla ilgili yerel kısıtlamalara uyduğunuzdan emin olun. Hastalık kontrol çabalarıyla işbirliği yapmak, COVID-19'u yakalama veya yayma riskinizi azaltacaktır. \nCOVID-19 salgınları kontrol altına alınabilir ve Çin ve diğer bazı ülkelerde gösterildiği gibi bulaşma durdurulabilir. Ne yazık ki, yeni salgınlar hızla ortaya çıkabilir. Bulunduğunuz veya gitmeyi düşündüğünüz durumun farkında olmak önemlidir. DSÖ, dünya çapında COVID-19 durumu hakkında günlük güncellemeler yayınlar."
     },
     {
-      "question": "Kim ağır hastalığa yakalanma riski altındadır?",
+      "question": "Kim agır hastalıga yakalanma riski altındadır?",
       "answer":
           "COVID-2019'un insanları, yaşlıları ve önceden var olan tıbbi rahatsızlıkları (yüksek tansiyon, kalp hastalığı, akciğer hastalığı, kanser veya diyabet gibi) nasıl etkilediğini öğrenmeye devam ederken, diğerlerinden daha sık ciddi hastalıklar geliştiriyor gibi görünüyor."
     },

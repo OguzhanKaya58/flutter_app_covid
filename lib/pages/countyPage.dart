@@ -48,11 +48,14 @@ class _CountryPageState extends State<CountryPage> {
               itemBuilder: (context, index) {
                 return GestureDetector(
                   onTap: () {
-                    Navigator.of(context).push(MaterialPageRoute(
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
                         builder: (context) => OneCountry(
-                              country: countryData,
-                              index: index,
-                            )));
+                          country: countryData,
+                          index: index,
+                        ),
+                      ),
+                    );
                   },
                   child: Card(
                     child: Container(
