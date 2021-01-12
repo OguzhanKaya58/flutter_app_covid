@@ -145,7 +145,7 @@ class _HomePageState extends State<HomePage> {
                         MaterialPageRoute(
                           builder: (context) => OneCountry(
                             country: countryData,
-                            index: 7,
+                            index: 6,
                           ),
                         ),
                       );
@@ -184,7 +184,7 @@ class _HomePageState extends State<HomePage> {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 10.0),
               child: Text(
-                'En çok etkilenen ülkeler',
+                'En Çok Etkilenen Ülkeler',
                 style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
               ),
             ),
